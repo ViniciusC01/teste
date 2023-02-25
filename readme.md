@@ -1,5 +1,5 @@
 
-<h1> Lista de funcionalidade<\h1>
+<h1> Lista de funcionalidade</h1>
 <hr>
 RF-001  criar usuário	criação de usuário com informações de pk, pwd e email
 RF-002	editar usuário	editar informações do usuário, com exceção cpf e e-mail
